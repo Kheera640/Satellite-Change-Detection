@@ -18,4 +18,3 @@ This project implements a **ResNet50-based Siamese U-Net model** to detect struc
 ## 📁 Dataset
 
 - Dataset: [LEVIR-CD+](https://www.kaggle.com/datasets/mdrifaturrahman33/levir-cd)
-- Format: h5
